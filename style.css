@@ -1,0 +1,49 @@
+
+
+
+body {
+
+}
+
+.header{
+    background-color: #1f2937;
+}
+
+.logo{ 
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+button { 
+    color: #3882f6;
+}
+
+.content {
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1f2937;
+}
+
+.text {
+
+}
+
+.quote{
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: light italic;
+    background-color: #e5e7eb;
+}
+
+.action-banner {
+
+}
+
+.sub-text{
+
+}
+
+.footer {
+    background-color: #1f2937;
+
+}
